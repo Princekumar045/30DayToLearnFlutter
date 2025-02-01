@@ -57,7 +57,7 @@ class _LoginPageState extends State<LoginPage> {
                   children: [
                     TextFormField(
                       decoration: InputDecoration(
-                          hintText: "Enter Username", labelText: "Username",
+                          hintText: "Enter Username", labelText: "username",
                           ),
                           validator: (value) {
                             if (value!.isEmpty){
