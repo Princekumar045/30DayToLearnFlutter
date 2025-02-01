@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_app/models/catalaog.dart';
+import 'package:flutter_app/models/catalog.dart';
 
 class ItemWidget extends StatelessWidget {
   final Item item;
@@ -10,6 +10,9 @@ class ItemWidget extends StatelessWidget {
   Widget build(BuildContext context) {
     return Card(
       child: ListTile(
+        onTap: () {
+          print("${item.name} pressed");
+        },
         leading: Image.network(item.image),
         title: Text(item.name),
         subtitle: Text(item.desc),

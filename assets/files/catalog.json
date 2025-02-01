@@ -1,162 +1,76 @@
-[
-  {
-    "id": 1,
-    "name": "iPhone 12 Pro",
-    "desc": "Apple iPhone 12th generation",
-    "price": 999.99,
-    "color": "White",
-    "image": "https://www.apple.com/v/iphone-12/i/images/overview/hero/iphone_12_hero__f9hjgzrcsmuy_large.jpg"
-  },
-  {
-    "id": 2,
-    "name": "Samsung Galaxy S21",
-    "desc": "Samsung Galaxy S21 with Dynamic AMOLED 2X display",
-    "price": 799.99,
-    "color": "Phantom Gray",
-    "image": "https://images.samsung.com/is/image/samsung/p6pim/latin_en/sm-g991bzkaspa/gallery/latin-en-galaxy-s21-5g-galaxy-s21-5g-384649368?$650_519_PNG$"
-  },
-  {
-    "id": 3,
-    "name": "Google Pixel 6",
-    "desc": "Google Pixel 6 with Tensor chip and 5G",
-    "price": 599.00,
-    "color": "Stormy Black",
-    "image": "https://store.google.com/ux/cms/uploads/2021/10/pixel_6_google_store_card_hero.jpg"
-  },
-  {
-    "id": 4,
-    "name": "OnePlus 9 Pro",
-    "desc": "OnePlus 9 Pro with Hasselblad camera and AMOLED display",
-    "price": 1069.00,
-    "color": "Morning Mist",
-    "image": "https://image01.oneplus.net/ebp/202103/10/1-9374d33d08cc01f9f800ccfe71d2f767.jpg"
-  },
-  {
-    "id": 5,
-    "name": "iPhone 13",
-    "desc": "Apple iPhone 13 with A15 Bionic chip",
-    "price": 799.00,
-    "color": "Red",
-    "image": "https://www.apple.com/v/iphone-13/i/images/overview/hero/iphone_13_hero__2vwbxj7ujp2i_large.jpg"
-  },
-  {
-    "id": 6,
-    "name": "Samsung Galaxy Z Fold 3",
-    "desc": "Samsung Galaxy Z Fold 3 with foldable Dynamic AMOLED display",
-    "price": 1799.99,
-    "color": "Phantom Black",
-    "image": "https://images.samsung.com/is/image/samsung/p6pim/latin_en/sm-f926bzkaspa/gallery/latin-en-galaxy-z-fold3-5g-galaxy-z-fold3-5g-384648356?$650_519_PNG$"
-  },
-  {
-    "id": 7,
-    "name": "Xiaomi Mi 11",
-    "desc": "Xiaomi Mi 11 with Snapdragon 888 processor",
-    "price": 749.99,
-    "color": "Horizon Blue",
-    "image": "https://cdn.teslarati.com/wp-content/uploads/2021/01/Xiaomi-Mi-11-featured.jpg"
-  },
-  {
-    "id": 8,
-    "name": "Huawei P40 Pro",
-    "desc": "Huawei P40 Pro with Leica quad camera and Kirin 990 5G",
-    "price": 899.00,
-    "color": "Silver Frost",
-    "image": "https://consumer.huawei.com/content/dam/huawei-cbg-site/common/mkt/pdp/phones/p40pro/gallery/hero-p40-pro.jpg"
-  },
-  {
-    "id": 9,
-    "name": "Sony Xperia 5 II",
-    "desc": "Sony Xperia 5 II with OLED display and 120Hz refresh rate",
-    "price": 949.99,
-    "color": "Black",
-    "image": "https://www.sony.net/SonyInfo/News/Press/202009/20-086E/iXperia-5II.jpg"
-  },
-  {
-    "id": 10,
-    "name": "Motorola Edge+",
-    "desc": "Motorola Edge+ with Snapdragon 865 and 108MP camera",
-    "price": 999.99,
-    "color": "Thunder Grey",
-    "image": "https://www.motorola.com/sites/default/files/EdgePlus_HeroImage_1400x1050px.jpg"
-  },
-  {
-    "id": 11,
-    "name": "iPhone 11",
-    "desc": "Apple iPhone 11 with A13 Bionic chip and dual-camera system",
-    "price": 699.00,
-    "color": "Purple",
-    "image": "https://www.apple.com/v/iphone-11/i/images/overview/hero/iphone_11_hero__i70d5j0qefmu_large.jpg"
-  },
-  {
-    "id": 12,
-    "name": "Samsung Galaxy Note 20 Ultra",
-    "desc": "Samsung Galaxy Note 20 Ultra with 108MP camera and 6.9-inch display",
-    "price": 1299.99,
-    "color": "Mystic Bronze",
-    "image": "https://images.samsung.com/is/image/samsung/p6pim/latin_en/sm-n986bzkaspa/gallery/latin-en-galaxy-note20-ultra-5g-galaxy-note20-ultra-5g-384648267?$650_519_PNG$"
-  },
-  {
-    "id": 13,
-    "name": "Google Pixel 5",
-    "desc": "Google Pixel 5 with 5G and 90Hz OLED display",
-    "price": 699.00,
-    "color": "Just Black",
-    "image": "https://store.google.com/ux/cms/uploads/2020/09/pixel-5-hero.jpg"
-  },
-  {
-    "id": 14,
-    "name": "OnePlus 8 Pro",
-    "desc": "OnePlus 8 Pro with 120Hz Fluid AMOLED display",
-    "price": 899.00,
-    "color": "Glacial Green",
-    "image": "https://image01.oneplus.net/ebp/202004/13/1-45f7b5f9f04262f78b5acdbb08b57e44.jpg"
-  },
-  {
-    "id": 15,
-    "name": "iPhone SE (2020)",
-    "desc": "Apple iPhone SE with A13 Bionic chip and compact design",
-    "price": 399.00,
-    "color": "Black",
-    "image": "https://www.apple.com/v/iphone-se/i/images/overview/hero/iphone_se_hero__gxxjmmtqu4fu_large.jpg"
-  },
-  {
-    "id": 16,
-    "name": "Samsung Galaxy A52",
-    "desc": "Samsung Galaxy A52 with 120Hz display and quad-camera system",
-    "price": 499.99,
-    "color": "Awesome Blue",
-    "image": "https://images.samsung.com/is/image/samsung/p6pim/latin_en/sm-a525mzkaspa/gallery/latin-en-galaxy-a52-5g-galaxy-a52-5g-384649093?$650_519_PNG$"
-  },
-  {
-    "id": 17,
-    "name": "Realme GT",
-    "desc": "Realme GT with Snapdragon 870 and 120Hz AMOLED display",
-    "price": 399.99,
-    "color": "Dashing Silver",
-    "image": "https://fdn2.gsmarena.com/vv/bigpic/realme-gt.jpg"
-  },
-  {
-    "id": 18,
-    "name": "Oppo Find X3 Pro",
-    "desc": "Oppo Find X3 Pro with 120Hz AMOLED display and quad-camera system",
-    "price": 1149.00,
-    "color": "Gloss Black",
-    "image": "https://www.oppo.com/media/16659/find-x3-pro.jpg"
-  },
-  {
-    "id": 19,
-    "name": "Asus ROG Phone 5",
-    "desc": "Asus ROG Phone 5 with 144Hz AMOLED display and Snapdragon 888",
-    "price": 999.99,
-    "color": "Storm White",
-    "image": "https://www.asus.com/media/1641746/rog-phone-5.jpg"
-  },
-  {
-    "id": 20,
-    "name": "Sony Xperia 1 II",
-    "desc": "Sony Xperia 1 II with 21:9 OLED display and Zeiss camera",
-    "price": 1199.99,
-    "color": "Purple",
-    "image": "https://www.sony.net/SonyInfo/News/Press/202003/20-063E/iXperia-1II.jpg"
-  }
-]
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "iPhone 12 Pro",
+      "desc": "Apple iPhone 12th generation",
+      "price": 999,
+      "color": "#33505a",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRISJ6msIu4AU9_M9ZnJVQVFmfuhfyJjEtbUm3ZK11_8IV9TV25-1uM5wHjiFNwKy99w0mR5Hk&usqp=CAc"
+    },
+    {
+      "id": 2,
+      "name": "Pixel 5",
+      "desc": "Google Pixel phone 5th generation",
+      "price": 699,
+      "color": "#00ac51",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSd0JhwLvm_uLDLc-la7hK9WyVpe9naJFcebKfhcICiq2KtvXDePNAU_9QO06LPcQ0K0fLByc7m&usqp=CAc"
+    },
+    {
+      "id": 3,
+      "name": "M1 Macbook Air",
+      "desc": "Apple Macbook air with apple silicon",
+      "price": 1099,
+      "color": "#e0bfae",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMOMstwtmLnjFb3NHiDJ_kcQnueNVH-rv_3ps96HZmXlFumKWaiBqq_L4Uoyx3iFiNTrXNEbyB&usqp=CAc"
+    },
+    {
+      "id": 4,
+      "name": "Playstation 5",
+      "desc": "Sony Playstation 5th generation",
+      "price": 500,
+      "color": "#544ee4",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMOMstwtmLnjFb3NHiDJ_kcQnueNVH-rv_3ps96HZmXlFumKWaiBqq_L4Uoyx3iFiNTrXNEbyB&usqp=CAc"
+    },
+    {
+      "id": 5,
+      "name": "Airpods Pro",
+      "desc": "Apple Aipods Pro 1st generation",
+      "price": 200,
+      "color": "#e3e4e9",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQROEs084z65psoo06zYl5R0tUzywOVKVQZzmzqCj3PDP1vVJTWv3gGwGMFENSy4qV4n7sEQjE&usqp=CAc"
+    },
+    {
+      "id": 6,
+      "name": "iPad Pro",
+      "desc": "Apple iPad Pro 2020 edition",
+      "price": 799,
+      "color": "#f73984",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNzUeRQ5uH7E3hpECib8qxdhfHv6SnUGT7mOsew_xiOoqRR7ZpdH-TQ4J6-HuIEfqHimYyPXWH&usqp=CAc"
+    },
+    {
+      "id": 7,
+      "name": "Galaxy S21 Ultra",
+      "desc": "Samsung Galaxy S21 Ultra 2021 edition",
+      "price": 1299,
+      "color": "#1c1c1c",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTT_PZcc0wicVYR992s5QCIDLYy8t-z-9kibTUdWZBN2sd86aaqdAJfhvxAwZNWV9wfdzDikpr1&usqp=CAc"
+    },
+    {
+      "id": 8,
+      "name": "Galaxy S21",
+      "desc": "Samsung Galaxy S21 2021 edition",
+      "price": 899,
+      "color": "#7c95eb",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBNHd7FwarbxA1xdMFt24KazjcR4dWPH_t_T5dz4YNK1s7rJAQ8gOIuR_NRw6eeiQgFhbZ9sAN&usqp=CAc"
+    },
+    {
+      "id": 9,
+      "name": "Galaxy S21",
+      "desc": "Samsung Galaxy S21 2021 edition",
+      "price": 899,
+      "color": "#7c95eb",
+      "image" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBNHd7FwarbxA1xdMFt24KazjcR4dWPH_t_T5dz4YNK1s7rJAQ8gOIuR_NRw6eeiQgFhbZ9sAN&usqp=CAc"
+    }
+  ]
+}
